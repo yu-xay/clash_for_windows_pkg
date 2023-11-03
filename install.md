@@ -1,8 +1,7 @@
 ### Win
-1. [Clash.Mini](https://github.com/Clash-Mini/Clash.Mini/releases)
-2. [v2rayN](https://github.com/2dust/v2rayN/releases)
-3. [Netch](https://github.com/netchx/Netch/releases)
-4. [clash-verge](https://github.com/zzzgydi/clash-verge/releases)
+1. [Clash Verge](https://github.com/zzzgydi/clash-verge)
+2. [ClashN](https://github.com/2dust/clashN)
+3. [V2rayN](https://github.com/2dust/v2rayN)
 
 ### Android
 1. [Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)
